@@ -15,7 +15,7 @@ body {
     text-align: center;
 }
 h1 {
-    color: #900;
+    color: #a00;
     font-size: 1.66em;
     letter-spacing: 0.05em;
     font-weight: normal;
@@ -28,12 +28,12 @@ div {
     text-align: left;
 }
 dt {
-    color: #900;
+    color: #a00;
     font-size: 0.8em;
     line-height: 2em;
     letter-spacing: 0.2em;
     text-transform: lowercase;
-    border-bottom: thin solid #900;
+    border-bottom: thin dotted #a00;
     margin: 2em 0;
 }
 dd {
@@ -42,21 +42,30 @@ dd {
     padding-left: 2em;
     letter-spacing: 0.1em;
 }
-a, a:link, a:visited {
+a, a:link {
     color: #000;
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: thin dotted #000;
+}
+a:visited {
+    color: #333;
+    text-decoration: none;
+    border-bottom: thin dotted #000;
 }
 a:hover {
-    color: #900;
-    text-decoration: underline;
+    color: #a00;
+    text-decoration: none;
+    border-bottom: thin solid #a00;
 }
 a:active {
-    color: #900;
+    color: #fff;
     text-decoration: none;
+    background: #a00;
+    border-bottom: thin solid #a00;
 }
 ::selection, ::-moz-selection {
     color: #fff;
-    background: #900;
+    background: #a00;
 }
 </style>
 
