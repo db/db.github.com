@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/deanburge
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://db.github.io
+  * I am deanburge (https://keybase.io/deanburge) on keybase.
+  * I have a public key ASAKqLVU07P23MBnACj_E8uajxjrGZsQql8J51Kq6k4WEQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c517eae843679a952f8961b977a678d356082b00c070819216993cadef4a520b0a",
+      "host": "keybase.io",
+      "kid": "01200aa8b554d3b3f6dcc0670028ff13cb9a8f18eb199b10aa5f09e752aaea4e16110a",
+      "uid": "bdd3efc8a2194c2f5b0c6224f1505d19",
+      "username": "deanburge"
+    },
+    "merkle_root": {
+      "ctime": 1510811534,
+      "hash": "585a31d86eb43e14acb7b159d6b87757f7541e51fe7be128f2f72c51671ff760a46d05fe16596e8daf141b350cd6026e9794f9d0c6d3677d95c31e7b4355ac01",
+      "hash_meta": "d59e44cbba164007d5ae08b7964071374524a6debe6447c72ae731fbcef2bcef",
+      "seqno": 1710029
+    },
+    "service": {
+      "hostname": "db.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1510811750,
+  "expire_in": 504576000,
+  "prev": "c81f99328777bc2de431d47ccd72909f8053287295908299a7825f5d6903396b",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCqi1VNOz9tzAZwAo/xPLmo8Y6xmbEKpfCedSqupOFhEKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzUxN2VhZTg0MzY3OWE5NTJmODk2MWI5NzdhNjc4ZDM1NjA4MmIwMGMwNzA4MTkyMTY5OTNjYWRlZjRhNTIwYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGFhOGI1NTRkM2IzZjZkY2MwNjcwMDI4ZmYxM2NiOWE4ZjE4ZWIxOTliMTBhYTVmMDllNzUyYWFlYTRlMTYxMTBhIiwidWlkIjoiYmRkM2VmYzhhMjE5NGMyZjViMGM2MjI0ZjE1MDVkMTkiLCJ1c2VybmFtZSI6ImRlYW5idXJnZSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMDgxMTUzNCwiaGFzaCI6IjU4NWEzMWQ4NmViNDNlMTRhY2I3YjE1OWQ2Yjg3NzU3Zjc1NDFlNTFmZTdiZTEyOGYyZjcyYzUxNjcxZmY3NjBhNDZkMDVmZTE2NTk2ZThkYWYxNDFiMzUwY2Q2MDI2ZTk3OTRmOWQwYzZkMzY3N2Q5NWMzMWU3YjQzNTVhYzAxIiwiaGFzaF9tZXRhIjoiZDU5ZTQ0Y2JiYTE2NDAwN2Q1YWUwOGI3OTY0MDcxMzc0NTI0YTZkZWJlNjQ0N2M3MmFlNzMxZmJjZWYyYmNlZiIsInNlcW5vIjoxNzEwMDI5fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRiLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTEwODExNzUwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImM4MWY5OTMyODc3N2JjMmRlNDMxZDQ3Y2NkNzI5MDlmODA1MzI4NzI5NTkwODI5OWE3ODI1ZjVkNjkwMzM5NmIiLCJzZXFubyI6MzMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAkx9nHAzARlVdxvmA3dmiHUI8rhL1qEeAehKrDDFH7fAAy0Q5hBE9IvXTqckcUgyH8pQ6a3Z6BS2z+kjXCWpwAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP7vUx4kL1n3Gw2hflsqQqN+eIBAnKD8iYtZQoBGk1djo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deanburge
+
+==================================================================
